@@ -1,25 +1,3 @@
-/*
-1)
-Name: 	Ramakanth Reddy Palleti
-ID: 	999990418
-2)
-Name:	name
-Id:		id
-3)
-Name:	name
-Id:		id
-Instructions:
-1. Create class file using command D:/> javac facebook.java
-2. Run class file with necessary command arguments as shown in following command
-	
-	D:/> java facebook hobbies.txt 3 2
-	
-	Note: hobbies.txt represents the file to be given to the following program. Make sure the file is in the same directory
-		  3 denotes the x value
-		  2 denotes the y value
-*/
-
-
 import java.util.*;
 import java.io.*;
 import java.lang.Object;

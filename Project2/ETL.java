@@ -1,27 +1,3 @@
-/*
-1)
-Name: 	Ramakanth Reddy Palleti
-ID: 	999990418
-Sec:	004
-2)
-Name:	Purushotham Reddy Kovvuri
-Id:		999991110
-Sec:	004
-
-Instructions:
-1. Create class file using command D:/> javac ETL.java
-2. Run class file with necessary command arguments as shown in following command
-	
-	D:/> java ETL Canon_G3_Camera.txt DVD_player.txt Jukebox.txt Nikon_coolpix.txt Nokia_6610.txt
-	
-	Note: 	Canon_G3_Camera.txt DVD_player.txt Jukebox.txt Nikon_coolpix.txt Nokia_6610.txt
-			represents the list of files to be given to ETL.java program.
-	
-	Note:	Must provide atleast one file to check output
-	
-	Note:	Input files should be in the same directory
-*/
-
 import java.util.*;
 import java.io.*;
 import java.lang.Object;
