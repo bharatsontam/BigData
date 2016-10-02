@@ -1,0 +1,6 @@
+49495,76176	 	 	Wrestling,Collecting Sports Cards (Baseball, Football, Basketball, Hockey)
+97163,35673	 	 	Models,Exercise (aerobics, weights)
+49495,71917	 	 	Collecting Sports Cards (Baseball, Football, Basketball, Hockey),Train Spotting
+68928,75386	 	 	Fishing,Stand-up comedy,Trainspotting
+40260,2642	 	 	Collecting Swords,Jet Engines,Blacksmithing
+76176,79727	 	 	Collecting Sports Cards (Baseball, Football, Basketball, Hockey)
